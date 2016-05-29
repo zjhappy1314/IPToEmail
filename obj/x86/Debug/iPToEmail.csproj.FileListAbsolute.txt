@@ -1,0 +1,28 @@
+c:\users\txlin\documents\visual studio 2010\Projects\iPToEmail\iPToEmail\obj\x86\Debug\iPToEmail.Properties.Resources.resources
+c:\users\txlin\documents\visual studio 2010\Projects\iPToEmail\iPToEmail\obj\x86\Debug\iPToEmail.csproj.GenerateResource.Cache
+c:\users\txlin\documents\visual studio 2010\Projects\iPToEmail\iPToEmail\bin\Debug\iPToEmail.exe
+c:\users\txlin\documents\visual studio 2010\Projects\iPToEmail\iPToEmail\bin\Debug\iPToEmail.pdb
+c:\users\txlin\documents\visual studio 2010\Projects\iPToEmail\iPToEmail\obj\x86\Debug\iPToEmail.exe
+c:\users\txlin\documents\visual studio 2010\Projects\iPToEmail\iPToEmail\obj\x86\Debug\iPToEmail.pdb
+c:\users\txlin\documents\visual studio 2010\Projects\iPToEmail\iPToEmail\obj\x86\Debug\iPToEmail.iPToEmail.resources
+E:\源码\iPToEmail\iPToEmail\bin\Debug\iPToEmail.exe
+E:\源码\iPToEmail\iPToEmail\bin\Debug\iPToEmail.pdb
+E:\源码\iPToEmail\iPToEmail\obj\x86\Debug\iPToEmail.iPToEmail.resources
+E:\源码\iPToEmail\iPToEmail\obj\x86\Debug\iPToEmail.Properties.Resources.resources
+E:\源码\iPToEmail\iPToEmail\obj\x86\Debug\iPToEmail.csproj.GenerateResource.Cache
+E:\源码\iPToEmail\iPToEmail\obj\x86\Debug\iPToEmail.exe
+E:\源码\iPToEmail\iPToEmail\obj\x86\Debug\iPToEmail.pdb
+E:\赵杰\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\bin\Debug\iPToEmail.exe
+E:\赵杰\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\bin\Debug\iPToEmail.pdb
+E:\赵杰\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\obj\x86\Debug\iPToEmail.iPToEmail.resources
+E:\赵杰\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\obj\x86\Debug\iPToEmail.Properties.Resources.resources
+E:\赵杰\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\obj\x86\Debug\iPToEmail.csproj.GenerateResource.Cache
+E:\赵杰\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\obj\x86\Debug\iPToEmail.exe
+E:\赵杰\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\obj\x86\Debug\iPToEmail.pdb
+E:\赵杰\自己写的小工具\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\obj\x86\Debug\iPToEmail.exe
+E:\赵杰\自己写的小工具\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\obj\x86\Debug\iPToEmail.pdb
+E:\赵杰\自己写的小工具\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\bin\Debug\iPToEmail.exe
+E:\赵杰\自己写的小工具\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\bin\Debug\iPToEmail.pdb
+E:\赵杰\自己写的小工具\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\obj\x86\Debug\iPToEmail.iPToEmail.resources
+E:\赵杰\自己写的小工具\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\obj\x86\Debug\iPToEmail.Properties.Resources.resources
+E:\赵杰\自己写的小工具\IPToEmail_d6375132-6365-48a5-af7d-b9563737f119\obj\x86\Debug\iPToEmail.csproj.GenerateResource.Cache
